@@ -8,7 +8,6 @@ const ArticlePage = () => {
         return <NotFoundPage />
     }
 
-     
     return (
         <>
         <h1>{article.title}!</h1>
