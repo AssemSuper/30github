@@ -1,8 +1,8 @@
 const AboutPage = () => {
     return (
         <>
-        <h1>This is the AboutPage page!</h1>
-        <p>
+        <h1>This is the About Page page!</h1>
+    <p>
         Welcome to my blog! Proin congue
         ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
         Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
