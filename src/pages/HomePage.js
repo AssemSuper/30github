@@ -1,5 +1,6 @@
 const HomePage = () => (
     <>
+    <button>Click Me</button>
     <h1>Hello, welcome to my blog!</h1>
     <p>
         Welcome to my blog! We can find about me. 
@@ -10,6 +11,7 @@ const HomePage = () => (
         eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 
         sodales purus euismod.
     </p>
+    <button>Click Me</button>
     <p>
         Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
         Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
