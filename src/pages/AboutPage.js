@@ -2,6 +2,7 @@ const AboutPage = () => {
     return (
         <>
         <h1>This is the About Page page!</h1>
+        <input type="text" />
     <p>
         Welcome to my blog! Proin congue
         ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
