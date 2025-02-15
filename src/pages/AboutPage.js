@@ -3,6 +3,7 @@ const AboutPage = () => {
         <>
         <h1>This is the About Page page!</h1>
         <input type="text" />
+        <button type="button">Make an input</button>
     <p>
         Welcome to my blog! Proin congue
         ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
