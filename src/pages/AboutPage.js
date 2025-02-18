@@ -6,6 +6,7 @@ const AboutPage = () => {
         <button type="button">Make an input</button>
         <li>Name</li>
         <li>Age</li>
+        <th> Here we go</th>
         
     <p>
         Welcome to my blog! Proin congue
