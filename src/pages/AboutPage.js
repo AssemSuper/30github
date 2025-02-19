@@ -7,6 +7,11 @@ const AboutPage = () => {
         <li>Name</li>
         <li>Age</li>
         <th> Here we go</th>
+        <select>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+        </select>
         
     <p>
         Welcome to my blog! Proin congue
