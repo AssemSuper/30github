@@ -12,6 +12,9 @@ const AboutPage = () => {
             <option value="2">Two</option>
             <option value="3">Three</option>
         </select>
+
+        <input type="radio" id="html" name="fav_language" value="HTML"/>
+
         
     <p>
         Welcome to my blog! Proin congue
