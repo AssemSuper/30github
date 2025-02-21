@@ -14,6 +14,9 @@ const AboutPage = () => {
         </select>
 
         <input type="radio" id="html" name="fav_language" value="HTML"/>
+        <input type="radio" id="html" name="fav_language" value="HTML"/>
+
+
 
         
     <p>
