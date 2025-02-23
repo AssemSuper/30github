@@ -1,7 +1,9 @@
 const HomePage = () => (
+    
     <>
     <button>Click Me</button>
     <h1>Hello, welcome to my blog!</h1>
+    <button>Trigger button</button>
     <select>
             <option value="1">One</option>
             <option value="2">Two</option>
