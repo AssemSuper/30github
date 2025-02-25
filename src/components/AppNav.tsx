@@ -17,7 +17,7 @@ const AppNav = ({ routes }: AppNavProps) => {
                     <div className="nav-item">
                         <NavLink to={route.path}>
                             {({ isActive }) => (
-                                <span className={`item ${isActive ? 'active' : ''}`}>{route.title}</span>
+                                <span className={`item ${isActive ? 'activeId' : ''}`}>{route.title}</span>
                             )}
                         </NavLink>
                     </div>
