@@ -11,6 +11,19 @@ const HomePage = () => (
             <option value="4">Four</option>
         </select>
 
+        <table>
+            <tr>
+                <td>One</td>
+                <td>Two</td>
+                <td>Three</td>
+            </tr>
+            <tr>
+                <td>Four</td>
+                <td>Five</td>
+                <td>Six</td>
+            </tr>
+        </table>
+
     <p>
         Welcome to my blog! We can find about me. 
         Proin congue
