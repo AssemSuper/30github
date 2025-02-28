@@ -6,9 +6,9 @@ const HomePage = () => (
     <h1>Hello, welcome to my blog!</h1>
     <button>Trigger button</button>
     <select>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
+            <option value="1">Hobby</option>
+            <option value="2">Work</option>
+            <option value="3">University</option>
             <option value="4">Four</option>
         </select>
 
