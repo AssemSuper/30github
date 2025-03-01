@@ -9,7 +9,7 @@ const HomePage = () => (
             <option value="1">Hobby</option>
             <option value="2">Work</option>
             <option value="3">University</option>
-            <option value="4">Four</option>
+            <option value="4">Improvement</option>
         </select>
 
         <table>
