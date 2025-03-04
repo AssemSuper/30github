@@ -7,6 +7,7 @@ import AboutPage from './pages/AboutPage';
 import ArticleList from './pages/ArticleListPage';
 import ArticlePage from './pages/ArticlePage';
 import NotFoundPage from './pages/NotFoundPage';
+import BasicExample from './pages/Example.tsx';
 function App() {
   return (
     <BrowserRouter>
@@ -19,6 +20,7 @@ function App() {
         {/* <Route path ="/articles" element={<ArticleList/>}/> */}
        <Route path ="/articles/:articleId" element={<ArticlePage/>} />
        <Route path ="*" element={<NotFoundPage/>} />
+       <Route path ="/" element={<BasicExample/>}/>
         
         </Routes>
         
