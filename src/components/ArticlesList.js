@@ -1,5 +1,10 @@
 import { Link } from 'react-router-dom';
+// import Cookies from 'js-cookie';
+// import { useState } from 'react';
 const ArticlesList = ({articles}) =>{
+    // const [activity, setActivity] = useState(false);
+    // Cookies.set('previousActivities', [...Cookies.get('previousActivities'), activity.id], { expires: 7 });
+
     return(
         <>
             {articles.map(article => (
