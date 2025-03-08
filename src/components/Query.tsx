@@ -5,3 +5,7 @@ const getActivity = async (): Promise<void> => {
     console.log(data);
     
 }
+
+const addActivity = (){
+    
+}
